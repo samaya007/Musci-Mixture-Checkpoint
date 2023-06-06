@@ -1,0 +1,4 @@
+Here we would be building a music mixture website. Use can drag and drop music sample to create a new of their liking.
+The images will be changes to SVG and we will add animation to that. Here we are deciding to go with either
+an old retro them or modern. Two website wireframe and sitemaps have been created. The design will also implement some of js
+functions.

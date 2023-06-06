@@ -17,4 +17,5 @@ This webiste it still work in progress
 Saddul-Divij
 and
 Kafle-Samaya
-
+## License
+MIT License- see attached file
