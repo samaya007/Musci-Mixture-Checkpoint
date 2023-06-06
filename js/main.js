@@ -1,3 +1,3 @@
-/* 
-alert('this is WIP site')
-*/
+
+alert('this site is under construction')
+
