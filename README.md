@@ -1,4 +1,3 @@
-![layout-of-the-website!](images/websitelayout.png)
 
 ## Music Mixtire
 This is going to be an site where a user can drag and drop music samples to create new music beats
@@ -18,5 +17,4 @@ This webiste it still work in progress
 Saddul-Divij
 and
 Kafle-Samaya
-## License
-MIT License- see included file
+
