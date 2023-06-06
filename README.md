@@ -16,6 +16,6 @@ This webiste it still work in progress
 ## Credits
 Saddul-Divij
 and
-Kafle-Samaya
+Kafle-Samaya (I've my two github account working- samaya007 and kaflebruh)
 ## License
 MIT License- see attached file
