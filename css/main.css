@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(0, 255, 255, 0.096);
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+  }
+  
+  li {
+    list-style: none;
+  }
+
+
+
+  /* styling navigation bar */
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: rgba(0, 128, 128, 0.588);
+    color: #fff;
+  }
+  
+  .navtext a {
+    color: #ffffff;
+  }
+  
+  
+/*this is for the side navigation menu
+have to adjust the padding*/
+ 
+
+.sidemenu {
+    display: flex;
+    gap: 5em;
+    font-size: 18px;
+  }
+
+
+  /*work on adding hover animation to side menu*/

@@ -1,5 +1,21 @@
-# Musci-Mixture-Checkpoint
 
-In this project we will be creating a musci mixture (drag and drop or tap to play music) usign html5, css anda java.
-
-we added 2 mockup and 1 wireframe to show in which direction we are heeading too.
+## Music Mixtire
+This is going to be an site where a user can drag and drop music samples to create new music beats
+## Installation
+Download the zip file in your desktop and unzip it
+## Usage
+Open index.html to view the website
+## Contributing
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+## History
+This webiste it still work in progress
+## Credits
+Saddul-Divij
+and
+Kafle-Samaya (I've my two github account working- samaya007 and kaflebruh)
+## License
+MIT License- see attached file
